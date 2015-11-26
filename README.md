@@ -6,7 +6,7 @@ Un dépôt pour centraliser les documents relatifs à l'organisation et la gesti
   - Favoriser la distribution des codes et logiciels, conçus à l'IPGP, dans la communauté scientifique des Sciences de la Terre et vers le grand public.
   
 ## Administration
-Quelles sont les règles à respecter pour ajouter, modifier, effacer un dépôt de l'organisation ? Pour le moment, chaque membre est administrateur de l'organisation et tous les membres ont un accès seulement en lecture aux dépôts.
+Quelles sont les règles à respecter pour ajouter, modifier, effacer un dépôt de l'organisation ? Pour le moment, chaque membre est administrateur de l'organisation et tous les membres ont un accès seulement en lecture aux dépôtsa de l'organisation créés par d'autres utilisateurs. Les droits du dépôt IPGP-TEST/coordination ont été changés pour que tous les membres de l'organisation y aient des droits d'écriture.
 
 ## Citations
 Chaque dépôt github est citable grâce à l'ajout d'un DOI via Zenodo comme indiqué [ici](https://guides.github.com/activities/citable-code/).
