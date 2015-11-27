@@ -28,6 +28,7 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
 
 ## Prochaines étapes
  - Obtenir agréement de l'administration
- - ajouter du contenu
+ - ajouter du contenu ([OSS](http://morpho.ipgp.fr/OSS), [SHTOOLS](http://github.com/SHTOOLS/SHTOOLS), [SPOPI](https://github.com/bonaime/spopi), WebObs, ...)
+ - Organiser une formation à github ([Try Git!](https://try.github.io), [Software Carpentry](http://swcarpentry.github.io/git-novice/))
  
 
