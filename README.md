@@ -20,7 +20,7 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
   * [L-GPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html), pour une réutilisation commerciale du code
   * [Creative Commons](http://creativecommons.org/), adaptée au partage de documents tels des cours.
   
-## Exemples d'autres organisation (à but scientique) sur github
+## Exemples d'autres organisation (à but scientifique) sur github
   - [EOST](http://github.com/eost), compte github de l'EOST
   - [Geodynamics](https://github.com/geodynamics), "computational infrastucture for geodynamics", fournisseur de Specfem ou Axisem
 
