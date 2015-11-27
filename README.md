@@ -19,10 +19,6 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
   * [GPL](http://www.gnu.org/licenses/gpl-3.0.en.html), pour une réutilisation uniquement par des applications libres
   * [L-GPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html), pour une réutilisation commerciale du code
   * [Creative Commons](http://creativecommons.org/), adaptée au partage de documents tels des cours.
-  
-## matériel pouvant être regroupé dans sous la bannière IPGP(-TEST)
-  - spopi
-  - [OSS](http://morpho.ipgp.fr/OSS), sous licenses Creative Commons. F. Métivier a donné un accord de principe sauf pour Rescal (dépend de C. Narteau)
 
 ## Exemples d'autres organisation (à but scientifique) sur github
   - [EOST](http://github.com/eost), compte github de l'EOST
@@ -30,6 +26,8 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
   - [ASL-ETH](https://github.com/ethz-asl), labo de robotique
   - [Geoscience Australia](https://github.com/GeoscienceAustralia)
 
-## Prochaine étape
-Quelles sont les conditions à remplir pour transformer IPGP-TEST en une organisation github IPGP pleinement affiliée et reconnue par l'IPGP ainsi qu'acceptée et utilisée par l'ensemble de la communauté ? 
+## Prochaines étapes
+ - Obtenir agréement de l'administration
+ - ajouter du contenu
+ 
 
