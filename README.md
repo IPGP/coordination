@@ -24,4 +24,5 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
   - [EOST](http://github.com/eost), compte github de l'EOST
   - [Geodynamics](https://github.com/geodynamics), "computational infrastucture for geodynamics", fournisseur de Specfem ou Axisem
 
-
+## Prochaine étape
+Quelles sont les conditions à remplir pour transformer IPGP-TEST en une organisation github IPGP pleinement affiliée et reconnue par l'IPGP ainsi qu'acceptée et utilisée par l'ensemble de la communauté ? 
