@@ -23,6 +23,7 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
 ## matériel pouvant être regroupé dans sous la bannière IPGP(-TEST)
   - spopi
   - [OSS](http://morpho.ipgp.fr/OSS), sous licenses Creative Commons. F. Métivier a donné un accord de principe sauf pour Rescal (dépend de C. Narteau)
+
 ## Exemples d'autres organisation (à but scientifique) sur github
   - [EOST](http://github.com/eost), compte github de l'EOST
   - [Geodynamics](https://github.com/geodynamics), "computational infrastucture for geodynamics", fournisseur de Specfem ou Axisem
