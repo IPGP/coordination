@@ -1,6 +1,7 @@
 ```
 Le compte IPGP est en phase de test. 
 N'hésitez pas à contribuer et à expérimenter avec GitHub.
+Consultez le document comment-contribuer.md pour plus d'informations.
 ```
 # Coordination
 
