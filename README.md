@@ -1,5 +1,10 @@
+```
+Le compte IPGP est en phase de test. 
+N'hésitez pas à contribuer et à expérimenter avec GitHub.
+```
 # Coordination
-Un dépôt pour centraliser les documents relatifs à l'organisation et la gestion du compte IPGP-TEST.
+
+Un dépôt pour centraliser les documents relatifs à l'organisation et la gestion du compte IPGP.
 
 ## Objectifs
   - Promouvoir la production et la distribution de logiciels et de codes de calcul, au sein de l'IPGP.
