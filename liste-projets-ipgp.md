@@ -1,4 +1,4 @@
-Ce document liste les projets, disponibles en ligne, issus de l'IPGP et qui pourraient être regroupés dans l'organisation GithHub IPGP.
+Ce document liste les projets, disponibles en ligne, issus de l'IPGP et qui pourraient être regroupés dans l'organisation GitHub IPGP.
 
 N'hésitez pas à contribuer et à modifier cette liste.
 
