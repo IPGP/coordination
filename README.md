@@ -1,5 +1,5 @@
 ```
-Le compte IPGP est en phase de test. 
+Le compte IPGP a été approuvé par la direction et les responsables d'équipes (24/03/2016). 
 N'hésitez pas à contribuer et à expérimenter avec GitHub (cf. comment-contribuer.md).
 ```
 # Coordination
@@ -36,4 +36,6 @@ Les codes ou documents mis à disposition par les personnels de l'IPGP ont tout 
  - ajouter du contenu ([OSS](http://morpho.ipgp.fr/OSS), [SHTOOLS](http://github.com/SHTOOLS/SHTOOLS), [SPOPI](https://github.com/bonaime/spopi), WebObs, ...)
  - Organiser une formation à github ([Try Git!](https://try.github.io), [Software Carpentry](http://swcarpentry.github.io/git-novice/))
  
+### Licence
+ce dépôt est sous licence [Cecill](http://www.cecill.info/).
 
