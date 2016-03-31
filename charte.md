@@ -9,7 +9,7 @@ L'IPGP autorise sous certaines conditions ses personnels à diffuser et partager
 ### Ajouter une licence
 Pour protéger votre travail et contrôler sa réutilisation, il est impératif, comprendre obligatoire, d'ajouter une licence à votre dépôt. Comment choisir votre licence ? Sachez que le CEA, le CNRS et l'Inria ont édité [3 licences](http://www.cecill.info) adaptées à la recherche scientifique et au droit français. Le site ["Choose a licence"](http://choosealicense.com/) peut vous aider à choisir la licence qui convient le mieux à vos travaux. Pensez à mentionnez dans le fichier README.md que le dépôt est sous licence.
 
-Voici une liste de licences, non exhaustive, souvent utilisées par la communauté scientique: 
+L'IPGP recommande d'utiliser une des licences suivantes: 
   * [CeCiLL](http://www.cecill.info/), "la licence française du logiciel libre" élaborée par le CEA, le CNRS et l'Inria. 
   * [MIT](https://opensource.org/licenses/MIT)
   * [BSD](https://opensource.org/licenses/BSD-3-Clause)
