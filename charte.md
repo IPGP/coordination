@@ -1,8 +1,10 @@
+`Ce document est provisoire et doit être soumis à validation par la direction/ This is a draft document.`
+
 # Charte pour le partage et la distribution de codes informatiques à l'IPGP
 ` English version is available at the end of the document`
 
 ## Version française
-Pour diffuser un code proprement dans l'internet il est recommandé d'ajouter un fichier LICENSE et un fichier README au projet.
+L'IPGP autorise sous certaines conditions ses personnels à diffuser et partager les codes informatiques résultant de leurs travaux. Ces conditions sont l'ajout d'une licence logiciel et un fichier README qui documente le projet.
 
 ### Ajouter une licence
 Pour protéger votre travail et contrôler sa réutilisation, il est impératif, comprendre obligatoire, d'ajouter une licence à votre dépôt. Comment choisir votre licence ? Sachez que le CEA, le CNRS et l'Inria ont édité [3 licences](http://www.cecill.info) adaptées à la recherche scientifique et au droit français. Le site ["Choose a licence"](http://choosealicense.com/) peut vous aider à choisir la licence qui convient le mieux à vos travaux. Pensez à mentionnez dans le fichier README.md que le dépôt est sous licence.
@@ -30,7 +32,7 @@ Voici une liste de fichier README.md sur lesquels prendre exemple:
 Tout dépôt GitHub est citable grâce à l'attribution d'un DOI via Zenodo. Les démarches sont expliquées [ici](https://guides.github.com/activities/citable-code/)
 
 ## English Version
-If you want to distribute your code in a legally clean way, it should always be accompagnied by a LICENSE and a README file.
+IPGP authorizes its employees to distribute and share their codes under certain conditions. A license file needs to be added to the project as well as a README that properly documents the project.
 
 ### Add a license
 To protect your work and to control how it can be reused, you have to add a licence to your project. How do
