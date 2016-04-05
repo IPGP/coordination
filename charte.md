@@ -49,6 +49,7 @@ du texte, d'insérer du code (avec "synthax higlithing"), d'insérer des images.
 Voici une liste de fichier README.md sur lesquels prendre exemple:
   - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS), du laboratoire de
     Planétologie et Sciences Spatiales
+  - [SHTns](https://bitbucket.org/nschaeff/shtns), du CNRS, ISTerre, Grenoble
   - [Obspy](https://github.com/obspy/obspy)
   - [Joe](https://github.com/karan/joe), avec des images, des animations et
     toute la documentation
@@ -102,6 +103,7 @@ You can find examples of README's here:
 
   * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS), from the laboratoire de
     Planétologie et Sciences Spatiales
+  - [SHTns](https://bitbucket.org/nschaeff/shtns), from CNRS, ISTerre, Grenoble
   * [Obspy](https://github.com/obspy/obspy)
   * [Joe](https://github.com/karan/joe), with images, animations and the full
     documentation
