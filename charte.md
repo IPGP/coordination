@@ -22,6 +22,7 @@ convient le mieux à vos travaux. Pensez à mentionnez dans le fichier README.md
 que le dépôt est sous licence.
 
 L'IPGP recommande d'utiliser une des licences suivantes: 
+
   * [CeCiLL](http://www.cecill.info/), "la licence française du logiciel libre"
     élaborée par le CEA, le CNRS et l'Inria. Cecill propose 3 licences
     équivalentes à GPL, BSD et LGPL, au choix.
