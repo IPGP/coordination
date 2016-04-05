@@ -93,7 +93,7 @@ A README can be written in any format, but a README.md, written in
 [Markdown](https://en.wikipedia.org/wiki/Markdown) format, is directly readable
 in a nicely formatted way in the browser and therefore recommended. Markdown
 allows you to include images, code and other elements in your README file.
-You can find examples of README's [here](link_list.md).
+You can find some README examples [here](link_list.md).
 
 
 ### Add a DOI
