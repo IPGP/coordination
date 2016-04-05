@@ -46,14 +46,8 @@ Les fichiers .md sont des fichiers écrit dans le langage à balises
 Markdown est très simple. Markdown vous permet de formatter
 du texte, d'insérer du code (avec "synthax higlithing"), d'insérer des images.
 
-Voici une liste de fichier README.md sur lesquels prendre exemple:
-  - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS), du laboratoire de
-    Planétologie et Sciences Spatiales
-  - [SHTns](https://bitbucket.org/nschaeff/shtns), du CNRS, ISTerre, Grenoble
-  - [Obspy](https://github.com/obspy/obspy)
-  - [Joe](https://github.com/karan/joe), avec des images, des animations et
-    toute la documentation
-  - [Awesome-README](https://github.com/matiassingers/awesome-readme)
+[Voici](link_list.md) une liste de fichier README.md sur lesquels prendre
+exemple.
 
 
 ### Ajouter un DOI
@@ -99,15 +93,7 @@ A README can be written in any format, but a README.md, written in
 [Markdown](https://en.wikipedia.org/wiki/Markdown) format, is directly readable
 in a nicely formatted way in the browser and therefore recommended. Markdown
 allows you to include images, code and other elements in your README file.
-You can find examples of README's here:
-
-  * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS), from the laboratoire de
-    Planétologie et Sciences Spatiales
-  - [SHTns](https://bitbucket.org/nschaeff/shtns), from CNRS, ISTerre, Grenoble
-  * [Obspy](https://github.com/obspy/obspy)
-  * [Joe](https://github.com/karan/joe), with images, animations and the full
-    documentation
-  * [Awesome-README](https://github.com/matiassingers/awesome-readme)
+You can find examples of README's [here](link_list.md).
 
 
 ### Add a DOI
