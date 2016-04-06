@@ -19,13 +19,15 @@ le CEA, le CNRS et l'Inria ont édité [3 licences](http://www.cecill.info)
 adaptées à la recherche scientifique et au droit français. Le site ["Choose a
 licence"](http://choosealicense.com/) peut vous aider à choisir la licence qui
 convient le mieux à vos travaux. Pensez à mentionnez dans le fichier README.md
-que le dépôt est sous licence.
+que le dépôt est sous licence. Le présent dépôt, IPGP/coordination, possède une licence par exemple ([IPGP/coordination/LICENCE](https://github.com/IPGP/coordination/LICENSE))
 
 L'IPGP recommande d'utiliser une des licences suivantes: 
 
   * [CeCiLL](http://www.cecill.info/), "la licence française du logiciel libre"
-    élaborée par le CEA, le CNRS et l'Inria. Cecill propose 3 licences
-    équivalentes à GPL, BSD et LGPL, au choix.
+    élaborée par le CEA, le CNRS et l'Inria. Cecill propose 3 licences:
+        - [CeCill-A](http://www.cecill.info/licences.fr.html), compatible avec GPL
+        - [Cecill-B](http://www.cecill.info/licences.fr.html), similaire à BSD
+        - [CeCiLL-C](http://www.cecill.info/licences.fr.html), similaire à L-GPLG
   * [MIT](https://opensource.org/licenses/MIT), licence open source permissive
     quand à la réutilisation
   * [BSD](https://opensource.org/licenses/BSD-3-Clause), similaire à MIT
@@ -36,7 +38,7 @@ L'IPGP recommande d'utiliser une des licences suivantes:
   * [Creative Commons](http://creativecommons.org/), adaptée au partage de
     documents tels des cours.
 
-  
+    
 ### Ajouter un README.md
 Le fichier README.md est la vitrine de votre dépôt GitHub. Il est donc
 primordial qu'il soit attrayant pour donner envie à l'utilisateur de s'emparer
@@ -72,12 +74,15 @@ abundant anglo-saxon licenses. The website
 ["Choose a licence"](http://choosealicense.com/)
 can help to understand the different possibilities.  Once you have decided, add
 the license file to your project and don't forget to mention it in the README
-file.
+file. This repository, IPGP/coordination, has a licence: [IPGP/coordination/LICENCE](https://github.com/IPGP/coordination/LICENSE)
 
 Recommanded choices by IPGP are:
 
   * [CeCiLL](http://www.cecill.info/), "la licence française du logiciel libre"
-    designed by CEA, CNRS and Inria. 
+    designed by CEA, CNRS and Inria. CeCill offers 3 choices:
+        - [CeCill-A](http://www.cecill.info/licences.fr.html), compatible with GPL
+        - [Cecill-B](http://www.cecill.info/licences.fr.html), similar to BSD
+        - [CeCiLL-C](http://www.cecill.info/licences.fr.html), similar to L-GPLG
   * [MIT](https://opensource.org/licenses/MIT)
   * [BSD](https://opensource.org/licenses/BSD-3-Clause)
   * [GPL](http://www.gnu.org/licenses/gpl-3.0.en.html), free software only
