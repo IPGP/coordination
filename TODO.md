@@ -1,6 +1,6 @@
 
 TODO:
- - [x] Creer la page ipgp.github.io
+ - [ ] Creer la page ipgp.github.io
  - [ ] voir com pour lien vers ipgp.github.io
- - [ ] liste de diffusion
+ - [x] Création de la liste de diffusion SYMPA code@ipgp.fr demandée
  - [ ] Publicité par all@ipgp.fr
