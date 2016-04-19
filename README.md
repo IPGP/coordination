@@ -4,6 +4,8 @@ N'hésitez pas à contribuer et à expérimenter avec GitHub (cf. comment-contri
 ```
 # Coordination
 
+[![Join the chat at https://gitter.im/IPGP/coordination](https://badges.gitter.im/IPGP/coordination.svg)](https://gitter.im/IPGP/coordination?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Un dépôt pour centraliser les documents relatifs à l'organisation et la gestion du compte IPGP.
 
 ## Objectifs
